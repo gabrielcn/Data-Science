@@ -1,2 +1,2 @@
 # Data-Science
-Dados e visualizações em python
+Python para Dados e visualizações
