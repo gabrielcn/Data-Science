@@ -1,2 +1,2 @@
 # Data-Science
-Python para Dados e visualizações
+Primeiros passos utilizando pandas, seaborn e matplotlib
